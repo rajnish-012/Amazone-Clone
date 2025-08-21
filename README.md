@@ -3,7 +3,13 @@
 A simple Amazon frontpage clone built with HTML and CSS.
 This project replicates the layout and styling of the Amazon India front page, including the navbar, search bar, hero section, product boxes, and footer.
 
-🔗 Live Demo: View Deployment
+---
+
+## 🌐 Live Demo
+
+👉 [Try the Calculator here](https://amazone-clone-lemon.vercel.app/)
+
+---
 
 🚀 Features
 
