@@ -7,7 +7,7 @@ This project replicates the layout and styling of the Amazon India front page, i
 
 ## 🌐 Live Demo
 
-👉 [Try the Calculator here](https://amazone-clone-lemon.vercel.app/)
+👉 [Try it here](https://amazone-clone-lemon.vercel.app/)
 
 ---
 
